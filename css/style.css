@@ -33,6 +33,10 @@
   /*--------
   header
   ---------- */
+  header img {
+    width: 150px;
+    margin-top: 17px;
+  }
   header {
     max-width: 960px;
     display: flex;
